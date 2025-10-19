@@ -1,0 +1,73 @@
+.img1{
+    margin-left: 75px;
+}
+.charityimage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -200px;
+   
+}
+.charityimg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -200px;
+    }
+    
+.view1{
+    display: inline-block;
+}
+.view h1{
+    margin-left: -270px;
+}
+.view p{
+margin-left: -100px;    
+
+    width: 600px;
+    text-align: justify;
+}
+.presale h1{
+    margin-left: 40px;
+    margin-right: 30px;
+    width: 600px;
+    text-align: justify;
+}
+.view2{
+    display: inline-block;
+}
+.whitelist h1{
+    margin-left: -80px;
+    margin-right: 30px;
+    width: 600px;
+    text-align: justify;
+}   
+.whitelist p{
+    margin-left: -80px;
+    margin-right: 30px;
+    width: 600px;
+    text-align: justify;
+}
+
+.mintsale h1{
+    margin-left: -80px;
+    margin-right: 30px;
+    width: 650px;
+    text-align: justify;
+}
+.mintsale p{
+    margin-left: -80px;
+    margin-right: 30px;
+    width: 600px;
+    text-align: justify;
+}
+#nft{
+    margin-left: -130px; 
+    margin-right: 30px;
+    width: 600px;
+}
+#nft2{
+    margin-left: -80px; 
+    margin-right: 30px;
+    width: 1200px;
+}
